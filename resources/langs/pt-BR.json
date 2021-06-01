@@ -10,7 +10,8 @@
       "movies_series" :  "Filmes e Series",
       "note" :  "Nota",
       "description" :  "Descrição",
-      "details" : "Detalhes"
+      "details" : "Detalhes",
+      "edit" : "Editar"
   },
   "about" : {
      "about" : "Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido.Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido."

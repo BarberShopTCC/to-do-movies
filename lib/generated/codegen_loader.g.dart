@@ -26,7 +26,8 @@ class CodegenLoader extends AssetLoader{
     "movies_series": "Movies and Series",
     "note": "Note",
     "description": "Description",
-    "details": "Details"
+    "details": "Details",
+    "edit": "Edit"
   },
   "about": {
     "about": "Designed to help fans explore the world of movies / shows and decide what to watch, Conta pra nos is an application that allows ratings (from 0 to 10) and comments on what was watched. The aim is entertainment, whether it is refreshing the memory of a film, program / cast, finding the best film / program to watch or just sharing your knowledge and opinions about what has been watched. Designed to help fans explore the world of films / programs to decide what to watch, Conta pra nos is an application that allows evaluations (from 0 to 10) and comments on what was watched. The aim is entertainment, whether it is refreshing the memory of a film, program / cast, finding the best film / program to watch or just sharing your knowledge and opinions about what has been watched."
@@ -47,7 +48,8 @@ static const Map<String,dynamic> pt_BR = {
     "movies_series": "Filmes e Series",
     "note": "Nota",
     "description": "Descrição",
-    "details": "Detalhes"
+    "details": "Detalhes",
+    "edit": "Editar"
   },
   "about": {
     "about": "Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido.Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido."

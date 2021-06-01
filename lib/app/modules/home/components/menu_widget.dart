@@ -81,7 +81,7 @@ class MenuWidget extends StatelessWidget {
                 Column(
                   children: [
                     MenuItemWidget(
-                      title: 'Editar',
+                      title: 'home.edit'.tr(),
                     )
                   ],
                 ),
