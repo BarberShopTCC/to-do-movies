@@ -1,0 +1,2 @@
+Atualizar arquivo de traduçao
+flutter pub run easy_localization:generate

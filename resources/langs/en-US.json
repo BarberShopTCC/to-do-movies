@@ -1,0 +1,21 @@
+{
+    "splash" : {
+        "record_your_movies": "Record your movies",
+        "tell_us" : "Tell us",
+        "lets_go" : "LET'S GO"
+    },
+    "home" : {
+        "about" : "About",
+        "terms_of_use" : "Terms of Use",
+        "movies_series" :  "Movies and Series",
+        "note" :  "Note",
+        "description" :  "Description",
+        "details" : "Details"
+    },
+    "about" : {
+        "about" : "Designed to help fans explore the world of movies / shows and decide what to watch, Conta pra nos is an application that allows ratings (from 0 to 10) and comments on what was watched. The aim is entertainment, whether it is refreshing the memory of a film, program / cast, finding the best film / program to watch or just sharing your knowledge and opinions about what has been watched. Designed to help fans explore the world of films / programs to decide what to watch, Conta pra nos is an application that allows evaluations (from 0 to 10) and comments on what was watched. The aim is entertainment, whether it is refreshing the memory of a film, program / cast, finding the best film / program to watch or just sharing your knowledge and opinions about what has been watched."
+    },
+    "terms_of_use" : {
+        "content" : "Texto do termos de uso..."
+     }
+}

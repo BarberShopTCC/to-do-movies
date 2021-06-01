@@ -1,0 +1,21 @@
+{
+   "splash" : {
+        "record_your_movies": "Grave seus filmes",
+        "tell_us" : "Conta pra nós",
+        "lets_go" : "BORA LA"
+   },
+   "home" : {
+      "about" : "Sobre",
+      "terms_of_use" : "Termos de Uso",
+      "movies_series" :  "Filmes e Series",
+      "note" :  "Nota",
+      "description" :  "Descrição",
+      "details" : "Detalhes"
+  },
+  "about" : {
+     "about" : "Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido.Projetada para ajudar os fãs a explorar o mundo dos filmes/programas a decidir o que assistir, o Conta pra nós é um aplicativo que possibilita avaliações (de 0 a 10) e comentários sobre o que foi assistido. O intuito é o entretenimento, seja refrescando a memória sobre um filme, programa/elenco, encontrar o melhor filme/programa para assistir ou apenas compartilhar seu conhecimento e opiniões sobre o que foi assistido."
+  },
+  "terms_of_use" : {
+      "content" : "Texto do termos de uso..."
+   }
+}
